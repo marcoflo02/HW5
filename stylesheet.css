@@ -1,0 +1,46 @@
+/* selects the body element */
+body {
+    font-size: 12px;
+}
+
+header {
+    font-size: 24px;
+}
+
+.wrapper{
+    background-color: black;
+    margin-left: 40px;
+    padding: 0;
+    margin-top: 20px
+
+}
+.box {
+    background: lightgray;
+
+    margin: 10px;
+
+    padding: 10px;
+}
+
+.france {
+    color: red;
+    background-color: blue;
+    font-family: "French Script MT";
+}
+
+.aim:hover{
+
+    color: blue;
+    background-color: coral;
+
+}
+
+.gitCat{
+    image-resolution: from-image;
+
+}
+
+.git {
+    padding: 2px;
+    margin: 2px;
+}
